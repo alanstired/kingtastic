@@ -1,4 +1,5 @@
 # Hi! This is Alan, better known as kingtastic on the internet.
+# Website: (kingtastic.dev)[https://kingtastic.dev]
 ## Computer nerd, gamer, ambitions in studying computer science, 17 years old.
 ### I'm researching software architecture and currently have a paper under submission to the Journal of "Information and Software Technology"
 
