@@ -7,6 +7,6 @@
 
 Goal #1: Improve my knowledge in computer science: understand new concepts presented during class, be able to program in new unfamiliar frameworks, be able to understand
 
-Goal #2: Develop for the school: assist with the publishing of at least one school-centric project, identify problems that could be solved, meet the needs of the GA community
+Goal #2: Develop for the school: assist with the publishing of at least one school-centric project, identify problems that could be solved, meet the needs of my school's community
 
 Goal #3: Excel in teamwork and project management: Engage in collaborative project work, implement effective algorithms, and create client-aligned project timelines and milestones.
